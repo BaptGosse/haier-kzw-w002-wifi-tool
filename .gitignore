@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Never commit vendor binaries or decompiled app sources (third-party, copyrighted)
+*.apk
+*.so
+*.dex
+decompiled/
+apk/
+
+# Local captures / scratch
+*.pcap
+*.log
